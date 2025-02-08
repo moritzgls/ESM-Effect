@@ -1,6 +1,7 @@
 ### ESM-Effect: An Effective and Efficient Fine-Tuning Framework Towards Accurate Prediction of Mutation's Functional Effect
 
-Code accompanying the pre-print *"ESM-Effect: An Effective and Efficient Fine-Tuning Framework Towards Accurate Prediction of Mutation's Functional Effect"*.
+Code accompanying the [pre-print](https://www.biorxiv.org/content/10.1101/2025.02.03.635741v1) *"ESM-Effect: An Effective and Efficient Fine-Tuning Framework Towards Accurate Prediction of Mutation's Functional Effect"*.
+
 
 Train and test ESM-Effect to predict the functional effect of missense mutations from a Deep Mutational Scan (DMS).
 
